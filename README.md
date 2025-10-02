@@ -7,7 +7,14 @@ names in the dataset appropriately, dealing with missing values, dealing with du
 
 Project Dataset: /datasets/movies_and_shows.csv 
 
+Project Tools And Libraries Used:
+
+* Pandas
+
 Methodology:
+
     1) Data Overview
+    
     2) Data Preprocessing (Dealing With Missing Values And Duplicate Values)
+    
     3) Basic Data Analysis
