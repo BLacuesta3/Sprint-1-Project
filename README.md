@@ -11,7 +11,7 @@ Project Tools And Libraries Used:
 
 * Pandas
 
-Methodology:
+Project Methodology:
 
     1) Data Overview
     
