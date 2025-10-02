@@ -5,3 +5,9 @@ using data from the entertainment industry.  I will be using the /datasets/movie
 This project consists of basic tasks such as: reading/ uploading the dataset onto a Jupyter notebook, renaming column
 names in the dataset appropriately, dealing with missing values, dealing with duplicate values, and very basic data analysis.
 
+Project Dataset: /datasets/movies_and_shows.csv 
+
+Methodology:
+    1) Data Overview
+    2) Data Preprocessing (Dealing With Missing Values And Duplicate Values)
+    3) Basic Data Analysis
