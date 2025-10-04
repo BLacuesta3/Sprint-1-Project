@@ -9,7 +9,7 @@ Project Dataset: /datasets/movies_and_shows.csv
 
 Project Tools And Libraries Used:
 
-* Pandas
+* pandas
 
 Project Methodology:
 
